@@ -1,0 +1,10 @@
+export const GET_DATASECURITY = 'GET_DATASECURITY';
+export const SET_DATASECURITY = 'SET_DATASECURITY';
+
+export const GET_SCOPECONFIG = 'GET_SCOPECONFIG';
+export const SET_SCOPECONFIG = 'SET_SCOPECONFIG';
+
+export const ADD_RULE = 'ADD_RULE';
+export const DELETE_RULE = 'DELETE_RULE';
+
+//etc.
